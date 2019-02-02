@@ -1,6 +1,9 @@
 # Generator Control
 
 This repository will have the details on the hardware and software of the generator control.
+# Project status.
+Not compleet yet just started 1 Feb 2019
+![Generator Control](Generator Controle.png?raw=true "Generator Contol")<br>
 
 Arduino Program
 

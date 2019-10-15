@@ -1,6 +1,6 @@
 # Generator Control
 
-This repository will have the details on the hardware and software of the generator control.
+This repository will have the details on the hardware and software of the generator Chock Servo control.
 # Project status.
 Not compleet yet just started 1 Feb 2019<br>
 ![Generator Control](doc/Generator_Controle_servo.png?raw=true "Generator Contol")<br>
